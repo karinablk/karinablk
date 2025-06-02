@@ -5,8 +5,6 @@
 🧠 Always learning — Python • SQL • ML models  
 📊 Data-driven mindset with strategic thinking  
 
----
-
 ## 🧠 About Me
 
 I’m a career switcher currently transitioning into data and machine learning, following 16+ years of experience in strategic roles across media and e-commerce.  
