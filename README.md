@@ -21,7 +21,7 @@ These projects were completed as part of a data science bootcamp and reflect rea
 
 - 🛒 **ML Classification** — predicting reorder behavior in e-commerce  
 - 🪙 **Web Scraping** — analysis of memecoins vs. major cryptocurrencies  
-- 📈 **Big Data & Sentiment Analysis** — [coming soon] AWS-based pipeline and NLP  
+- 📈 **Big Data & Sentiment Analysis** — AWS-based pipeline  
 
 Each of them involved end-to-end development — from data acquisition to analysis and model evaluation.
 
