@@ -11,8 +11,6 @@ I’m a career switcher currently transitioning into data and machine learning, 
 I’ve completed a data science bootcamp, built several end-to-end projects, and I’m passionate about using data to solve meaningful business problems.  
 Curious by nature, I enjoy connecting business logic with data insights and continue to grow through hands-on learning.
 
----
-
 ## 💻 Projects (so far)
 
 These projects were completed as part of a data science bootcamp and reflect real-world business challenges:
@@ -23,13 +21,9 @@ These projects were completed as part of a data science bootcamp and reflect rea
 
 Each of them involved end-to-end development — from data acquisition to analysis and model evaluation.
 
----
-
 ## 📜 Certifications
 
 - **PCEP** – Certified Entry-Level Python Programmer  
 - **Data Science Bootcamp** – WeCloudData
 
----
-
-🌍 Based in Europe | 🎯 Curious by nature | 💬 Open to collaboration
+🌍 Based in Europe/Germany | 🎯 Curious by nature | 💬 Open to collaboration
