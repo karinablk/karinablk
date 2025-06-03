@@ -26,4 +26,8 @@ Each of them involved end-to-end development — from data acquisition to analys
 - **PCEP** – Certified Entry-Level Python Programmer  
 - **Data Science Bootcamp** – WeCloudData
 
+## 🌐 GitHub Pages Portfolio
+
+Check out my portfolio here: [karinablk.github.io/portfolios](https://karinablk.github.io/portfolios)
+
 🌍 Based in Europe/Germany | 🎯 Curious by nature | 💬 Open to collaboration
